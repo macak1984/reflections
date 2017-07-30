@@ -1,7 +1,11 @@
 What happens when you initialize a repository? Why do you need to do it?
 
+Formira se skriveni direktorijum. Koji će pratiti promene na odgovarajućim fajlovima.
+
 How is the staging area different from the working directory and the repository?
 What value do you think it offers?
+
+Direktorijum obuhvata ceo projekat, dok staging area samo fajlove čije se promene prate , jer nema potrebe da se prate svi fajlovi.
 
 How can you use the staging area to make sure you have one commit per logical
 change?
